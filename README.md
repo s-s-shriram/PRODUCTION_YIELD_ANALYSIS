@@ -55,3 +55,22 @@ The final system is modular, interpretable, and extensible for integration into 
   - plotly==5.15.0
 
 ---
+## 🧰 Tech Stack Used
+
+- **🖥️ Programming Languages:**
+  - 🐍 Python
+  - 🗄️ SQL
+
+- **⚙️ Frameworks & Libraries:**
+  - 📊 Pandas
+  - 🤖 Scikit-learn
+  - 🧠 TensorFlow
+
+- **🗃️ Databases:**
+  - 💾 MySQL
+  - 🗂️ PostgreSQL
+
+- **🛠️ Tools:**
+  - 📓 Jupyter Notebook
+  - 🐳 Docker
+  - 🧰 Git
